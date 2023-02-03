@@ -26,3 +26,9 @@ GET /api/sum
 
 GET /api/random
     - random data
+
+
+CURL
+```sh
+    curl --location --request GET 'http://localhost:3002/api/sum'
+```
